@@ -27,10 +27,5 @@ public class A
 		a.clear();
 		System.out.println(a);
 		System.out.println(a.isEmpty());
-		
-		
-		
-		
 	}
-
 }
